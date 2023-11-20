@@ -1,0 +1,1997 @@
+1
+00:00:05,074 --> 00:00:10,704
+<font face="Volkhov" size="78"><i><b>100 वर्षांपूर्वी, नैसर्गिक
+मानवतेचे भक्षक दिसू लागले.</b></i></font>
+
+2
+00:00:15,834 --> 00:00:21,304
+<font face="Volkhov" size="78"><i><b>एक अभेद्य अंतर होते
+त्यांच्या आणि मानवजातीमधील सामर्थ्यामध्ये,</b></i></font>
+
+3
+00:00:21,304 --> 00:00:25,054
+<font face="Volkhov" size="78"><i><b>आणि परिणामी, मानव
+लवकरच संपूर्ण विनाशाला सामोरे जावे लागले.</b></i></font>
+
+4
+00:00:29,814 --> 00:00:36,404
+<font face="Volkhov" size="78"><i><b>जगलेल्यांनी तीन बांधून प्रतिसाद दिला
+वॉल्स"वॉल मारिया, वॉल रोज, आणि वॉल सिना"</b></i></font>
+
+5
+00:00:36,404 --> 00:00:39,944
+<font face="Volkhov" size="78"><i><b>ज्यामुळे त्यांना 100 वर्षांची शांतता लाभली.</b></i></font>
+
+6
+00:00:39,944 --> 00:00:41,194
+<font face="Volkhov" size="78"><i><b>तथापि...</b></i></font>
+
+7
+00:00:43,294 --> 00:00:43,664
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7} तो अन्न आहे आणि आपण शिकारी आहोत </font>
+
+8
+00:00:43,664 --> 00:00:43,874
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">म्हणजे</font></font>
+
+9
+00:00:43,874 --> 00:00:44,004
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">सिंद</font></font>
+
+10
+00:00:44,004 --> 00:00:44,204
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">das</font></font>
+
+11
+00:00:44,204 --> 00:00:44,544
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">Es</font></font>
+
+12
+00:00:44,544 --> 00:00:44,704
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">सेन</font></font>
+
+13
+00:00:44,704 --> 00:00:44,874
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7} <font color="#ffcd47">अंड</font></font>
+
+14
+00:00:44,874 --> 00:00:45,164
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">wir</font></font>
+
+15
+00:00:45,164 --> 00:00:45,334
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">सिंद</font></font>
+
+16
+00:00:45,334 --> 00:00:45,544
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">डाय</font></font>
+
+17
+00:00:45,544 --> 00:00:45,874
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">JÃ¤</font></font>
+
+18
+00:00:45,874 --> 00:00:46,294
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ger</font></font>
+
+19
+00:00:49,674 --> 00:00:49,834
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7} nd wir sind JÃ¤ger </font>
+
+20
+00:00:49,834 --> 00:00:50,174
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">रा</font></font>
+
+21
+00:00:50,174 --> 00:00:50,544
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">wir</font></font>
+
+22
+00:00:50,544 --> 00:00:50,884
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">सिंद</font></font>
+
+23
+00:00:50,884 --> 00:00:51,214
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">JÃ¤</font></font>
+
+24
+00:00:51,214 --> 00:00:51,884
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ger</font></font>
+
+25
+00:00:55,014 --> 00:00:55,134
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7} nd wir sind JÃ¤ger </font>
+
+26
+00:00:55,134 --> 00:00:55,464
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">रा</font></font>
+
+27
+00:00:55,464 --> 00:00:55,764
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">wir</font></font>
+
+28
+00:00:55,764 --> 00:00:56,134
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">सिंद</font></font>
+
+29
+00:00:56,134 --> 00:00:56,474
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">JÃ¤</font></font>
+
+30
+00:00:56,474 --> 00:00:57,224
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ger</font></font>
+
+31
+00:00:58,304 --> 00:00:58,514
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}उमरात नाही</font>
+
+32
+00:00:58,514 --> 00:00:58,804
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">u</font></font>
+
+33
+00:00:58,804 --> 00:00:59,144
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">मा</font></font>
+
+34
+00:00:59,144 --> 00:00:59,434
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">पुन्हा</font></font>
+
+35
+00:00:59,434 --> 00:00:59,764
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ta</font></font>
+
+36
+00:00:59,764 --> 00:01:00,094
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">हा</font></font>
+
+37
+00:01:00,094 --> 00:01:00,474
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ना</font></font>
+
+38
+00:01:00,474 --> 00:01:00,854
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">नाही</font></font>
+
+39
+00:01:00,854 --> 00:01:00,974
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7} amae mo Shirazu ni </font>
+
+40
+00:01:00,974 --> 00:01:01,304
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">a</font></font>
+
+41
+00:01:01,304 --> 00:01:01,474
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">मा</font></font>
+
+42
+00:01:01,474 --> 00:01:01,804
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">e</font></font>
+
+43
+00:01:01,804 --> 00:01:02,144
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">mo</font></font>
+
+44
+00:01:02,144 --> 00:01:02,474
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">शि</font></font>
+
+45
+00:01:02,474 --> 00:01:02,814
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ra</font></font>
+
+46
+00:01:02,814 --> 00:01:03,144
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">zu</font></font>
+
+47
+00:01:03,144 --> 00:01:03,604
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ni</font></font>
+
+48
+00:01:03,604 --> 00:01:03,974
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">हाय</font></font>
+
+49
+00:01:03,974 --> 00:01:04,144
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ni</font></font>
+
+50
+00:01:04,144 --> 00:01:04,524
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">o</font></font>
+
+51
+00:01:04,524 --> 00:01:04,814
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ची</font></font>
+
+52
+00:01:04,814 --> 00:01:05,104
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ta</font></font>
+
+53
+00:01:05,104 --> 00:01:05,434
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ला</font></font>
+
+54
+00:01:05,434 --> 00:01:05,774
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ri</font></font>
+
+55
+00:01:05,774 --> 00:01:06,184
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">वा</font></font>
+
+56
+00:01:06,184 --> 00:01:06,644
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">a</font></font>
+
+57
+00:01:06,644 --> 00:01:06,814
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ze</font></font>
+
+58
+00:01:06,814 --> 00:01:07,104
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">वो</font></font>
+
+59
+00:01:07,104 --> 00:01:07,524
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">मा</font></font>
+
+60
+00:01:07,524 --> 00:01:07,774
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ची</font></font>
+
+61
+00:01:07,774 --> 00:01:08,144
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">वा</font></font>
+
+62
+00:01:08,144 --> 00:01:08,444
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">द्वि</font></font>
+
+63
+00:01:08,444 --> 00:01:08,774
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ru</font></font>
+
+
+64
+00:01:08,774 --> 00:01:09,274
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}टोकोरो डी नाही</font>
+
+65
+00:01:09,274 --> 00:01:09,444
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">नाही</font></font>
+
+66
+00:01:09,444 --> 00:01:09,774
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">t</font></font>
+
+67
+00:01:09,774 --> 00:01:10,154
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ta</font></font>
+
+68
+00:01:10,154 --> 00:01:10,444
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ला</font></font>
+
+69
+00:01:10,444 --> 00:01:10,774
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ko</font></font>
+
+70
+00:01:10,774 --> 00:01:11,114
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ro</font></font>
+
+71
+00:01:11,114 --> 00:01:11,524
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">de</font></font>
+
+72
+00:01:11,524 --> 00:01:11,614
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}अनिमो कवारनाई</font>
+
+73
+00:01:11,614 --> 00:01:11,944
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">a</font></font>
+
+74
+00:01:11,944 --> 00:01:12,114
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ni</font></font>
+
+75
+00:01:12,114 --> 00:01:12,404
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">mo</font></font>
+
+76
+00:01:12,404 --> 00:01:12,774
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ka</font></font>
+
+77
+00:01:12,774 --> 00:01:13,114
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">वा</font></font>
+
+78
+00:01:13,114 --> 00:01:13,444
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ra</font></font>
+
+79
+00:01:13,444 --> 00:01:13,734
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ना</font></font>
+
+80
+00:01:13,734 --> 00:01:14,154
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">i</font></font>
+
+81
+00:01:14,154 --> 00:01:14,614
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}ma wo kaeru no wa</font>
+
+82
+00:01:14,614 --> 00:01:14,784
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">मा</font></font>
+
+83
+00:01:14,784 --> 00:01:15,074
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">वो</font></font>
+
+84
+00:01:15,074 --> 00:01:15,364
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ka</font></font>
+
+85
+00:01:15,364 --> 00:01:15,784
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">e</font></font>
+
+86
+00:01:15,784 --> 00:01:16,114
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ru</font></font>
+
+87
+00:01:16,114 --> 00:01:16,404
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">नाही</font></font>
+
+88
+00:01:16,404 --> 00:01:16,694
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">वा</font></font>
+
+89
+00:01:16,694 --> 00:01:16,904
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}atakau kakugo da</font>
+
+90
+00:01:16,904 --> 00:01:17,244
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">a</font></font>
+
+91
+00:01:17,244 --> 00:01:17,404
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ta</font></font>
+
+92
+00:01:17,404 --> 00:01:17,784
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ka</font></font>
+
+93
+00:01:17,784 --> 00:01:18,114
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">u</font></font>
+
+94
+00:01:18,114 --> 00:01:18,404
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ka</font></font>
+
+95
+00:01:18,404 --> 00:01:18,744
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ku</font></font>
+
+96
+00:01:18,744 --> 00:01:19,074
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">जा</font></font>
+
+97
+00:01:19,074 --> 00:01:19,494
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">da</font></font>
+
+98
+00:01:19,494 --> 00:01:20,034
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">हाय</font></font>
+
+99
+00:01:20,034 --> 00:01:20,244
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ka</font></font>
+
+100
+00:01:20,244 --> 00:01:20,414
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ba</font></font>
+
+101
+00:01:20,414 --> 00:01:20,574
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ने</font></font>
+
+102
+00:01:20,574 --> 00:01:20,744
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">फू</font></font>
+
+103
+00:01:20,744 --> 00:01:20,914
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">mi</font></font>
+
+104
+00:01:20,914 --> 00:01:21,074
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ko</font></font>
+
+105
+00:01:21,074 --> 00:01:21,204
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">e</font></font>
+
+106
+00:01:21,204 --> 00:01:21,824
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ते</font></font>
+
+107
+00:01:21,824 --> 00:01:22,034
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">u</font></font>
+
+108
+00:01:22,034 --> 00:01:22,204
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">su</font></font>
+
+109
+00:01:22,204 --> 00:01:22,584
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">mu</font></font>
+
+110
+00:01:22,584 --> 00:01:22,744
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">i</font></font>
+
+111
+00:01:22,744 --> 00:01:22,914
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">शि</font></font>
+
+112
+00:01:22,914 --> 00:01:23,244
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">वो</font></font>
+
+113
+00:01:23,244 --> 00:01:23,454
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">वा</font></font>
+
+114
+00:01:23,454 --> 00:01:23,664
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ra</font></font>
+
+115
+00:01:23,664 --> 00:01:23,874
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">u</font></font>
+
+116
+00:01:23,874 --> 00:01:24,124
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">bu</font></font>
+
+117
+00:01:24,124 --> 00:01:24,294
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ta</font></font>
+
+118
+00:01:24,294 --> 00:01:24,664
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">यो</font></font>
+
+119
+00:01:24,664 --> 00:01:25,084
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">a</font></font>
+
+120
+00:01:25,084 --> 00:01:25,204
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ची</font></font>
+
+121
+00:01:25,204 --> 00:01:25,374
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ku</font></font>
+
+122
+00:01:25,374 --> 00:01:25,544
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">नाही</font></font>
+
+123
+00:01:25,544 --> 00:01:25,834
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">अन</font></font>
+
+124
+00:01:25,834 --> 00:01:26,164
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">nei</font></font>
+
+125
+00:01:26,164 --> 00:01:26,454
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">यो</font></font>
+
+126
+00:01:26,454 --> 00:01:26,584
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">gi</font></font>
+
+127
+00:01:26,584 --> 00:01:26,704
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">नाही</font></font>
+
+128
+00:01:26,704 --> 00:01:27,044
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">हान</font></font>
+
+129
+00:01:27,044 --> 00:01:27,164
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ei</font></font>
+
+130
+00:01:27,164 --> 00:01:27,334
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}हिसेरू गरू नो जियु वो</font>
+
+131
+00:01:27,334 --> 00:01:27,664
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">हाय</font></font>
+
+132
+00:01:27,664 --> 00:01:27,914
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">से</font></font>
+
+133
+00:01:27,914 --> 00:01:28,044
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ru</font></font>
+
+134
+00:01:28,044 --> 00:01:28,164
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ga</font></font>
+
+135
+00:01:28,164 --> 00:01:28,544
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">रू</font></font>
+
+136
+00:01:28,544 --> 00:01:28,664
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">नाही</font></font>
+
+137
+00:01:28,664 --> 00:01:28,834
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">जी</font></font>
+
+138
+00:01:28,834 --> 00:01:29,424
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">yu</font></font>
+
+139
+00:01:29,424 --> 00:01:29,544
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">u</font></font>
+
+140
+00:01:29,544 --> 00:01:30,174
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">वो</font></font>
+
+141
+00:01:30,174 --> 00:01:30,374
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">o</font></font>
+
+142
+00:01:30,374 --> 00:01:30,584
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ra</font></font>
+
+143
+00:01:30,584 --> 00:01:30,714
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">वा</font></font>
+
+144
+00:01:30,714 --> 00:01:31,044
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">पुन्हा</font></font>
+
+145
+00:01:31,044 --> 00:01:31,384
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ta</font></font>
+
+146
+00:01:31,384 --> 00:01:31,714
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ku</font></font>
+
+147
+00:01:31,714 --> 00:01:31,884
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">त्सू</font></font>
+
+148
+00:01:31,884 --> 00:01:32,044
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">jo</font></font>
+
+149
+00:01:32,044 --> 00:01:32,344
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ku</font></font>
+
+150
+00:01:32,344 --> 00:01:32,674
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">वा</font></font>
+
+151
+00:01:32,674 --> 00:01:32,844
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}अंगेकी नो कौशी दा</font>
+
+152
+00:01:32,844 --> 00:01:33,044
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">a</font></font>
+
+153
+00:01:33,044 --> 00:01:33,214
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">n</font></font>
+
+154
+00:01:33,214 --> 00:01:33,344
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ge</font></font>
+
+155
+00:01:33,344 --> 00:01:33,714
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">कि</font></font>
+
+156
+00:01:33,714 --> 00:01:34,004
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">नाही</font></font>
+
+157
+00:01:34,004 --> 00:01:34,384
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ko</font></font>
+
+158
+00:01:34,384 --> 00:01:34,674
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">u</font></font>
+
+159
+00:01:34,674 --> 00:01:35,004
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">शि</font></font>
+
+160
+00:01:35,004 --> 00:01:35,304
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">da</font></font>
+
+161
+00:01:35,304 --> 00:01:35,554
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}ओहेकी नो सोनो कानाता</font>
+
+162
+00:01:35,554 --> 00:01:35,674
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">o</font></font>
+
+163
+00:01:35,674 --> 00:01:35,844
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">u</font></font>
+
+164
+00:01:35,844 --> 00:01:36,014
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">तो</font></font>
+
+165
+00:01:36,014 --> 00:01:36,344
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">कि</font></font>
+
+166
+00:01:36,344 --> 00:01:36,674
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">नाही</font></font>
+
+167
+00:01:36,674 --> 00:01:37,014
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">तर</font></font>
+
+168
+00:01:37,014 --> 00:01:37,174
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">नाही</font></font>
+
+169
+00:01:37,174 --> 00:01:37,424
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ka</font></font>
+
+170
+00:01:37,424 --> 00:01:37,674
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ना</font></font>
+
+171
+00:01:37,674 --> 00:01:37,974
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ta</font></font>
+
+172
+00:01:37,974 --> 00:01:38,344
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}मोनो वो होफुरु जेगर</font>
+
+173
+00:01:38,344 --> 00:01:38,554
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">mo</font></font>
+
+174
+00:01:38,554 --> 00:01:38,724
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">नाही</font></font>
+
+175
+00:01:38,724 --> 00:01:38,974
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">वो</font></font>
+
+176
+00:01:38,974 --> 00:01:39,184
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">हो</font></font>
+
+177
+00:01:39,184 --> 00:01:39,344
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">फू</font></font>
+
+178
+00:01:39,344 --> 00:01:39,634
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ru</font></font>
+
+179
+00:01:39,634 --> 00:01:40,134
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">JÃ¤</font></font>
+
+180
+00:01:40,134 --> 00:01:40,804
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ger</font></font>
+
+181
+00:01:40,804 --> 00:01:41,014
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">o</font></font>
+
+182
+00:01:41,014 --> 00:01:41,144
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ला</font></font>
+
+183
+00:01:41,144 --> 00:01:41,344
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ba</font></font>
+
+184
+00:01:41,344 --> 00:01:41,644
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">शि</font></font>
+
+185
+00:01:41,644 --> 00:01:41,974
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ru</font></font>
+
+186
+00:01:41,974 --> 00:01:42,224
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">शो</font></font>
+
+187
+00:01:42,224 --> 00:01:42,474
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">u</font></font>
+
+188
+00:01:42,474 --> 00:01:42,644
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">करू</font></font>
+
+189
+00:01:42,644 --> 00:01:42,974
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">u</font></font>
+
+190
+00:01:42,974 --> 00:01:43,354
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ni</font></font>
+
+191
+00:01:43,354 --> 00:01:43,514
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}ओनो मी वो याकी नगरा</font>
+
+192
+00:01:43,514 --> 00:01:43,684
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">o</font></font>
+
+193
+00:01:43,684 --> 00:01:43,854
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">नाही</font></font>
+
+194
+00:01:43,854 --> 00:01:43,974
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">mi</font></font>
+
+195
+00:01:43,974 --> 00:01:44,264
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">वो</font></font>
+
+196
+00:01:44,264 --> 00:01:44,644
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">हा</font></font>
+
+197
+00:01:44,644 --> 00:01:45,144
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">कि</font></font>
+
+198
+00:01:45,144 --> 00:01:45,314
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ना</font></font>
+
+199
+00:01:45,314 --> 00:01:45,644
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ga</font></font>
+
+200
+00:01:45,644 --> 00:01:46,104
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ra</font></font>
+
+201
+00:01:46,104 --> 00:01:46,314
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">a</font></font>
+
+202
+00:01:46,314 --> 00:01:46,474
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">तर</font></font>
+
+203
+00:01:46,474 --> 00:01:46,644
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ga</font></font>
+
+204
+00:01:46,644 --> 00:01:47,024
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">पुन्हा</font></font>
+
+205
+00:01:47,024 --> 00:01:47,314
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ni</font></font>
+
+206
+00:01:47,314 --> 00:01:47,644
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">हाय</font></font>
+
+207
+00:01:47,644 --> 00:01:47,814
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">वो</font></font>
+
+208
+00:01:47,814 --> 00:01:47,984
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">u</font></font>
+
+209
+00:01:47,984 --> 00:01:48,314
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ga</font></font>
+
+210
+00:01:48,314 --> 00:01:48,644
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">त्सू</font></font>
+
+211
+00:01:48,644 --> 00:01:48,814
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">u</font></font>
+
+212
+00:01:48,814 --> 00:01:49,144
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">पुन्हा</font></font>
+
+213
+00:01:49,144 --> 00:01:49,314
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">n</font></font>
+
+214
+00:01:49,314 --> 00:01:49,564
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">नाही</font></font>
+
+215
+00:01:49,564 --> 00:01:49,814
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">yu</font></font>
+
+216
+00:01:49,814 --> 00:01:49,984
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">mi</font></font>
+
+217
+00:01:49,984 --> 00:01:52,814
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">हा</font></font>
+
+218
+00:01:53,444 --> 00:01:53,614
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7} nd wir sind JÃ¤ger </font>
+
+219
+00:01:53,614 --> 00:01:53,944
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">रा</font></font>
+
+220
+00:01:53,944 --> 00:01:54,324
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">wir</font></font>
+
+221
+00:01:54,324 --> 00:01:54,614
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">सिंद</font></font>
+
+222
+00:01:54,614 --> 00:01:54,944
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">JÃ¤</font></font>
+
+223
+00:01:54,944 --> 00:01:55,484
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ger</font></font>
+
+224
+00:01:58,784 --> 00:01:58,904
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7} nd wir sind JÃ¤ger </font>
+
+225
+00:01:58,904 --> 00:01:59,244
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">रा</font></font>
+
+226
+00:01:59,244 --> 00:01:59,574
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">wir</font></font>
+
+227
+00:01:59,574 --> 00:01:59,954
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">सिंद</font></font>
+
+228
+00:01:59,954 --> 00:02:00,284
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">JÃ¤</font></font>
+
+229
+00:02:00,284 --> 00:02:00,784
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ger</font></font>
+
+230
+00:02:04,204 --> 00:02:04,534
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">रा</font></font>
+
+231
+00:02:04,534 --> 00:02:04,914
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">wir</font></font>
+
+232
+00:02:04,914 --> 00:02:05,244
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">सिंद</font></font>
+
+233
+00:02:05,244 --> 00:02:05,624
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">JÃ¤</font></font>
+
+234
+00:02:05,624 --> 00:02:06,044
+<font face="ObeliskMdITC TT" size="60" color="#a67e79">{\an7}<font color="#ffcd47">ger</font></font>
+
+235
+00:02:14,994 --> 00:02:20,004
+<font face="Cardo" size="75">{\an5}<font color="#ffffff"><font face="MS PMincho">â'¡</font></font>< </font>
+
+236
+00:02:33,514 --> 00:02:40,524
+<font face="Volkhov" size="78">"तोपर्यंत एक दु:खी आत्मा आणि विभक्त झाला/
+मी देवाकडून होतो, आणि पूर्णपणे लालसा होतो;</font>
+
+237
+00:02:41,394 --> 00:02:47,214
+<font face="Volkhov" size="78">आता, तू पाहतोस, मला त्याची शिक्षा आहे.</font>
+
+238
+00:02:48,634 --> 00:02:51,074
+<font face="Volkhov" size="78">येथे काय लालसा आहे हे स्पष्ट केले आहे</font>
+
+239
+00:02:51,834 --> 00:02:57,014
+<font face="Volkhov" size="78">या आत्म्यांच्या शुद्धीकरणात धर्मांतरित,</font>
+
+240
+00:02:58,454 --> 00:03:05,034
+<font face="Volkhov" size="78">आणि डोंगराला आणखी कडू वेदना होणार नाहीत."</font>
+
+241
+00:03:19,004 --> 00:03:20,244
+<font face="Volkhov" size="78">थांबा!</font>
+
+242
+00:03:20,244 --> 00:03:21,524
+<font face="Volkhov" size="78">मला जाऊ दे!</font>
+
+243
+00:03:22,984 --> 00:03:27,404
+<font face="Volkhov" size="78">"अरे अ‍ॅव्हॅरिस, तू आमच्यासाठी आणखी काय करू शकतोस,</font>
+
+244
+00:03:28,074 --> 00:03:33,114
+<font face="Volkhov" size="78">तुझ्यापासून माझे रक्त तूच काढले आहेस,</font>
+
+245
+00:03:33,114 --> 00:03:36,494
+<font face="Volkhov" size="78">त्याला स्वतःच्या शरीराची काळजी नाही का?"</font>
+
+246
+00:03:40,724 --> 00:03:44,284
+<font face="Volkhov" size="78">"अरे अवेरीस, तू आणखी काय करू शकतोस""</font>
+
+247
+00:03:57,974 --> 00:03:59,974
+<font face="Volkhov" size="78">एरेन, तू काय आहेस? </font>
+
+248
+00:03:59,974 --> 00:04:02,874
+<font face="Volkhov" size="78">आम्ही आईला वाचवण्याच्या खूप जवळ आलो होतो...</font>
+
+249
+00:04:02,874 --> 00:04:05,204
+<font face="Volkhov" size="78">यासाठी आम्ही तुमचे आभार मानू नका!</font>
+
+250
+00:04:05,204 --> 00:04:06,644
+<font face="Volkhov" size="78">आम्ही खूप जवळ होतोâ€”</font>
+
+251
+00:04:06,644 --> 00:04:08,524
+<font face="Volkhov" size="78">स्वतःवर ताबा मिळवा!</font>
+
+252
+00:04:09,934 --> 00:04:10,614
+<font face="Volkhov" size="78">एरेन!</font>
+
+253
+00:04:16,414 --> 00:04:17,564
+<font face="Volkhov" size="78">एरेन,</font>
+
+254
+00:04:20,454 --> 00:04:23,904
+<font face="Volkhov" size="78">तुम्ही तुमच्या आईला वाचवू शकला नाही कारण...</font>
+
+255
+00:04:23,904 --> 00:04:26,024
+<font face="Volkhov" size="78">तुम्हाला तसे करण्याची ताकद नव्हती.</font>
+
+256
+00:04:28,854 --> 00:04:29,924
+<font face="Volkhov" size="78">पण मी...</font>
+
+257
+00:04:31,714 --> 00:04:35,094
+<font face="Volkhov" size="78">मी टायटनचा सामना करू शकलो नाही कारण...</font>
+
+258
+00:04:36,044 --> 00:04:38,104
+<font face="Volkhov" size="78">माझ्यात लढण्याचे धैर्य नव्हते!</font>
+
+259
+00:04:49,654 --> 00:04:50,484
+<font face="Volkhov" size="78">मला माफ कर.</font>
+
+260
+00:05:02,294 --> 00:05:04,714
+<font face="Volkhov" size="78"><i><b>अरे, हे पुन्हा होत आहे.</b></i></font>
+
+261
+00:05:19,184 --> 00:05:21,474
+<font face="Volkhov" size="78">त्वरा करा! आतल्या गेटवर जा!</font>
+
+262
+00:05:22,374 --> 00:05:23,974
+<font face="Volkhov" size="78">आमच्याकडे इथे बोटी नांगरल्या आहेत!</font>
+
+263
+00:05:23,974 --> 00:05:26,274
+<font face="Volkhov" size="78">आम्ही शिगांशिना बाहेर काढत आहोत!</font>
+
+264
+00:05:26,944 --> 00:05:30,444
+<font face="Volkhov" size="78">त्वरा करा, नाहीतर तुम्ही खाऊन जाल!</font>
+
+265
+00:05:43,194 --> 00:05:48,034
+<font face="Volkhov" size="78"><i><b>शिगांशिना सारखे पसरलेले जिल्हे की
+भिंतीच्या बाजूने मुख्य बिंदूंवर स्थित आहेत</b></i></font>
+
+266
+00:05:48,034 --> 00:05:50,704
+<font face="Volkhov" size="78"><i><b>टायटन्सला आकर्षित करण्यासाठी आमिष म्हणून कार्य करा</b></i></font>
+
+267
+00:05:50,704 --> 00:05:55,274
+<font face="Volkhov" size="78"><i><b>संरक्षणासाठी लागणारा खर्च कमी ठेवण्यासाठी
+तसेच लष्करी संसाधने जतन करा.</b></i></font>
+
+268
+00:05:55,274 --> 00:06:01,174
+<font face="Volkhov" size="78"><i><b>त्यानुसार, येथील रहिवासी
+शिगांशिना टायटन्सचे लक्ष्य बनले</b></i></font>
+
+269
+00:06:01,174 --> 00:06:04,824
+<font face="Volkhov" size="78"><i><b>आणि काहीही उरले नाही
+पण एकच सुटका मार्ग.</b></i></font>
+
+270
+00:06:04,824 --> 00:06:05,594
+<font face="Volkhov" size="78">आम्ही वाचलो, बरोबर?</font>
+
+271
+00:06:05,594 --> 00:06:06,604
+<font face="Volkhov" size="78">हो.</font>
+
+272
+00:06:08,314 --> 00:06:10,304
+<font face="Volkhov" size="78">तुम्ही सर्वजण, तुमची संपत्ती सोडून द्या!</font>
+
+273
+00:06:10,304 --> 00:06:11,904
+<font face="Volkhov" size="78">आम्ही जहाजावर जास्तीत जास्त लोक मिळवू!</font>
+
+274
+00:06:17,484 --> 00:06:19,554
+<font face="Volkhov" size="78">आर्मीन, बसा.</font>
+
+275
+00:06:19,554 --> 00:06:22,484
+<font face="Volkhov" size="78">पण एरेन आणि मिकासा अजूनही नाहीत...</font>
+
+276
+00:06:23,864 --> 00:06:24,994
+<font face="Volkhov" size="78">ते इथे आहेत!</font>
+
+277
+00:06:27,424 --> 00:06:28,754
+<font face="Volkhov" size="78">एरेन...</font>
+
+278
+00:06:30,854 --> 00:06:32,714
+<font face="Volkhov" size="78">त्यांना आताच राहू द्या.</font>
+
+279
+00:06:33,594 --> 00:06:36,804
+<font face="Volkhov" size="78">गरीब गोष्टी. दिसण्यावरून
+त्यापैकी, ते असावेत...</font>
+
+280
+00:06:40,534 --> 00:06:43,514
+<font face="Volkhov" size="78">इतका वेळ काय घेत आहे?!
+वेग घ्या!</font>
+
+281
+00:06:43,514 --> 00:06:45,354
+<font face="Volkhov" size="78">शिंपले कुठे आहेत?!</font>
+
+282
+00:06:53,234 --> 00:06:56,654
+<font face="Volkhov" size="78">H- त्वरा करा! ते आधीच आमच्या मागे आहेत!</font>
+
+283
+00:07:10,414 --> 00:07:11,924
+<font face="Volkhov" size="78">तू माझी मस्करी करत आहेस.</font>
+
+284
+00:07:11,924 --> 00:07:13,504
+<font face="Volkhov" size="78">हे फक्त...</font>
+
+285
+00:07:13,504 --> 00:07:16,774
+<font face="Volkhov" size="78">माझे स्वामी. हे राश्याधिपती, हे नाथ, हे प्रभू. हे राश्याधिपती, हे नाथ, हे प्रभू. माझे स्वामी.</font>
+
+286
+00:07:17,474 --> 00:07:18,574
+<font face="Volkhov" size="78">अरे!</font>
+
+287
+00:07:18,574 --> 00:07:19,514
+<font face="Volkhov" size="78">थांबा!</font>
+
+288
+00:07:20,094 --> 00:07:21,684
+<font face="Volkhov" size="78">अरे, तू काय करतोस?!</font>
+
+289
+00:07:21,684 --> 00:07:22,764
+<font face="Volkhov" size="78">आणखी जागा नाही!</font>
+
+290
+00:07:22,764 --> 00:07:23,804
+<font face="Volkhov" size="78">ते निघत आहे!</font>
+
+291
+00:07:23,804 --> 00:07:27,184
+<font face="Volkhov" size="78">कोणताही मार्ग नाही! कृपया, आम्हाला चालू द्या!
+किमान माझ्या मुलाला!</font>
+
+292
+00:07:27,524 --> 00:07:29,254
+<font face="Volkhov" size="78">माफ करा, मी करू शकत नाही.</font>
+
+293
+00:07:29,254 --> 00:07:30,104
+<font face="Volkhov" size="78">प्रस्थान!</font>
+
+294
+00:07:34,434 --> 00:07:35,404
+<font face="Volkhov" size="78">कृपया!</font>
+
+295
+00:07:35,404 --> 00:07:36,654
+<font face="Volkhov" size="78">आम्हाला चालू द्या!</font>
+
+296
+00:07:52,884 --> 00:07:55,164
+<font face="Volkhov" size="78">तुम्ही मंद आहात, तुमचे लक्ष्यही आहे का?!</font>
+
+297
+00:07:55,164 --> 00:07:59,254
+<font face="Volkhov" size="78">B-परंतु हे विश्वसनीय होण्यासाठी पुरेसे अचूक नाहीत!</font>
+
+298
+00:07:59,254 --> 00:08:02,214
+<font face="Volkhov" size="78">ते आत्ताच विसरा!</font>
+
+299
+00:08:02,214 --> 00:08:03,914
+<font face="Volkhov" size="78">दुहेरीवर दुसरे शेल लोड करा!</font>
+
+300
+00:08:03,914 --> 00:08:05,094
+<font face="Volkhov" size="78">आम्ही करू शकत नाही!</font>
+
+301
+00:08:10,644 --> 00:08:13,034
+<font face="Volkhov" size="78">गेट बंद होत आहे.</font>
+
+302
+00:08:13,034 --> 00:08:14,164
+<font face="Volkhov" size="78">आम्ही माघार घेत आहोत...</font>
+
+303
+00:08:14,164 --> 00:08:15,564
+<font face="Volkhov" size="78">आम्ही मागे राहू!</font>
+
+304
+00:08:15,564 --> 00:08:16,234
+<font face="Volkhov" size="78">अरे!</font>
+
+305
+00:08:18,034 --> 00:08:20,784
+<font face="Volkhov" size="78">अद्याप बंद करू नका!
+फक्त जरा थांबा!</font>
+
+306
+00:08:20,784 --> 00:08:23,624
+<font face="Volkhov" size="78">अजूनही पलीकडे बरेच लोक आहेत!</font>
+
+307
+00:08:23,624 --> 00:08:29,194
+<font face="Volkhov" size="78">जर या गेटचा भंग झाला तर आमच्याकडे बरेच काही असेल
+एकापेक्षा एक शहर उध्वस्त होण्याची काळजी!</font>
+
+308
+00:08:29,194 --> 00:08:33,044
+<font face="Volkhov" size="78">आमचा प्रदेश सर्व कमी केला जाईल
+पुढील भिंतीकडे जाण्याचा मार्ग!</font>
+
+309
+00:08:33,044 --> 00:08:36,714
+<font face="Volkhov" size="78">तरीही, आम्हाला सोडण्याचे कारण नाही
+आमच्या समोरचे लोक मरायला!</font>
+
+310
+00:08:37,824 --> 00:08:38,974
+<font face="Volkhov" size="78">ते पटकन बंद करा!</font>
+
+311
+00:08:38,974 --> 00:08:40,254
+<font face="Volkhov" size="78">टायटन्स येत आहेत!</font>
+
+312
+00:08:41,454 --> 00:08:43,234
+<font face="Volkhov" size="78">गेट सील करा, लवकर!</font>
+
+313
+00:08:45,144 --> 00:08:46,184
+<font face="Volkhov" size="78">Stopâ€”</font>
+
+314
+00:08:48,164 --> 00:08:49,434
+<font face="Volkhov" size="78">अरे!</font>
+
+315
+00:09:27,684 --> 00:09:31,764
+<font face="Volkhov" size="78">ते काय...?</font>
+
+316
+00:09:32,644 --> 00:09:33,564
+<font face="Volkhov" size="78">फायर!</font>
+
+317
+00:09:42,514 --> 00:09:43,654
+<font face="Volkhov" size="78">एक स्क्रॅच देखील नाही...</font>
+
+318
+00:09:49,834 --> 00:09:52,414
+<font face="Volkhov" size="78">हे येत आहे! माघार घ्या!</font>
+
+319
+00:09:53,034 --> 00:09:54,504
+<font face="Volkhov" size="78">टायटन येत आहे!</font>
+
+320
+00:09:54,504 --> 00:09:56,214
+<font face="Volkhov" size="78">हे पार पडणार आहे!</font>
+
+321
+00:09:56,214 --> 00:09:58,674
+<font face="Volkhov" size="78">लवकर, गेट बंद कर!</font>
+
+322
+00:10:33,844 --> 00:10:35,664
+<font face="Volkhov" size="78">गेट होता...</font>
+
+323
+00:10:52,974 --> 00:10:57,984
+<font face="Cardo" size="75">{\an5}<b><font face="Cardo"><font size="42"><font color="#f8f8f8">क्षेत्र वॉल मारियाच्या पलीकडे अजूनही एक रहस्य आहे.</font></font></font></b></font>
+
+324
+00:10:57,984 --> 00:11:02,984
+<font face="Cardo" size="75">{\an5}<b><font size="42"><font face="Cardo"><font color="#f8f8f8">खनिजे, नैसर्गिक वायू आणि इतर संसाधने.</font></font></font></b></font>
+
+325
+00:11:04,154 --> 00:11:09,324
+<font face="Volkhov" size="78"><i><b>पतनानंतर काही तासांनी
+शिगांशिना, वॉल मारियाच्या दक्षिणेस,</b></i></font>
+
+326
+00:11:09,324 --> 00:11:15,244
+<font face="Volkhov" size="78"><i><b>बातमी प्रत्येक गावात पसरली
+वन्य आग सारख्या मानवजातीच्या प्रदेशात.</b></i></font>
+
+327
+00:11:15,914 --> 00:11:16,834
+<font face="Volkhov" size="78">{\an8}हे खरे आहे का?!</font>
+
+328
+00:11:16,834 --> 00:11:17,374
+<font face="Cardo" size="75">{\an5}<b><font color="#edecea">ट्रोस्ट जिल्हा</font></b></font>
+
+329
+00:11:17,374 --> 00:11:20,584
+<font face="Volkhov" size="78">{\an8}त्या टायटन्सने शिगांशिनावर आक्रमण केले...</font>
+
+330
+00:11:20,924 --> 00:11:22,374
+<font face="Volkhov" size="78">अविश्वसनीय.</font>
+
+331
+00:11:22,374 --> 00:11:25,214
+<font face="Volkhov" size="78">आता का, भिंत असताना
+गेल्या 100 वर्षांपासून आयोजित?</font>
+
+332
+00:11:25,544 --> 00:11:27,594
+<font face="Volkhov" size="78">तुमचा विश्वास असो वा नसो,</font>
+
+333
+00:11:27,594 --> 00:11:30,674
+<font face="Volkhov" size="78"> वस्तुस्थिती अशी आहे की, लोक
+तेथे फेरीने बाहेर काढले आहे.</font>
+
+334
+00:11:30,674 --> 00:11:33,894
+<font face="Volkhov" size="78">अहवालानुसार, असे दिसते
+जहाजावर सुमारे ५०० लोक असावेत.</font>
+
+335
+00:11:33,894 --> 00:11:37,774
+<font face="Volkhov" size="78">शिगांशिना का हा खरा प्रश्न आहे
+पडलेला एकमेव जिल्हा आहे.</font>
+
+336
+00:11:37,974 --> 00:11:42,984
+<font face="Volkhov" size="78">पण ते मोडू शकले नसते
+वॉल मारियाच्या आत, ते करू शकतात का?</font>
+
+337
+00:11:45,984 --> 00:11:49,744
+<font face="Volkhov" size="78">कोणत्याही दराने, आम्ही ऑर्डरसाठी सेंट्रलशी संपर्क साधू.</font>
+
+338
+00:11:49,744 --> 00:11:54,494
+<font face="Volkhov" size="78">आम्ही एकटे असू नये
+अशा अनिश्चित परिस्थितीला संबोधित करणे!</font>
+
+339
+00:11:55,164 --> 00:11:56,284
+<font face="Volkhov" size="78">पी-मला माफ करा!</font>
+
+340
+00:11:56,704 --> 00:11:58,744
+<font face="Volkhov" size="78">आम्हाला आत्ताच काही बातम्या मिळाल्या आहेत!</font>
+
+341
+00:11:58,744 --> 00:12:03,794
+<font face="Volkhov" size="78">असे दिसते की वॉल मारिया आहे
+भंग केला आणि टायटन्सने आक्रमण केले!</font>
+
+342
+00:12:10,974 --> 00:12:12,724
+<font face="Volkhov" size="78">ते संपले.</font>
+
+343
+00:12:13,974 --> 00:12:15,224
+<font face="Volkhov" size="78">अंत जवळ आहे.</font>
+
+344
+00:12:16,304 --> 00:12:19,644
+<font face="Volkhov" size="78">आम्ही पुन्हा टायटन्सने भस्म करू.</font>
+
+345
+00:12:20,474 --> 00:12:22,104
+<font face="Volkhov" size="78">शेवट...</font>
+
+346
+00:12:23,734 --> 00:12:28,484
+<font face="Volkhov" size="78"><i><b>आम्ही पुन्हा त्या घरात परत येऊ शकणार नाही.</b></i></font>
+
+347
+00:12:32,194 --> 00:12:38,164
+<font face="Volkhov" size="78"><i><b>का... ती निरर्थक लढाई
+ती माझी शेवटची आठवण असावी का?</b></i></font>
+
+348
+00:12:39,084 --> 00:12:40,794
+<font face="Volkhov" size="78"><i><b>आई आता जवळपास नाही.</b></i></font>
+
+349
+00:12:42,374 --> 00:12:44,124
+<font face="Volkhov" size="78"><i><b>ती चांगली गेली!</b></i></font>
+
+350
+00:12:46,634 --> 00:12:48,464
+<font face="Volkhov" size="78"><i><b>का?!</b></i></font>
+
+351
+00:12:49,094 --> 00:12:52,304
+<font face="Volkhov" size="78"><i><b>तुम्हाला तसे करण्याची ताकद नव्हती.</b></i></font>
+
+352
+00:12:54,554 --> 00:12:58,264
+<font face="Volkhov" size="78"><i><b>कारण मी... कारण माणसं दुर्बल आहेत...</b></i></font>
+
+353
+00:12:58,264 --> 00:13:01,024
+<font face="Volkhov" size="78"><i><b>दुबळ्या लोकांना फक्त रडण्याशिवाय पर्याय नसतो का?</b></i></font>
+
+354
+00:13:16,244 --> 00:13:19,244
+<font face="Volkhov" size="78">ते बास्टर्ड्स... या जगातून...</font>
+
+355
+00:13:19,244 --> 00:13:20,164
+<font face="Volkhov" size="78">एरेन?</font>
+
+356
+00:13:20,164 --> 00:13:21,874
+<font face="Volkhov" size="78">काय चूक आहे, एरेन?</font>
+
+357
+00:13:23,254 --> 00:13:24,124
+<font face="Volkhov" size="78">एरेन?</font>
+
+358
+00:13:25,874 --> 00:13:27,374
+<font face="Volkhov" size="78">मी त्यांचा नायनाट करीन!</font>
+
+359
+00:13:29,044 --> 00:13:33,514
+<font face="Volkhov" size="78">या जगातून... एकालाही सोडत नाही...</font>
+
+360
+00:13:34,884 --> 00:13:36,474
+<font face="Volkhov" size="78">एरेन?</font>
+
+361
+00:13:42,264 --> 00:13:46,354
+<font face="Volkhov" size="78"><i><b>त्या वर्षी केंद्र सरकारने
+ने निर्णय दिला</b></i></font>
+
+362
+00:13:46,644 --> 00:13:50,774
+<font face="Volkhov" size="78"><i><b>वॉल रोझपर्यंत मानवजातीचा प्रदेश कमी करण्यासाठी.</b></i></font>
+
+363
+00:13:50,774 --> 00:13:55,784
+<font face="Volkhov" size="78"><i><b>या काळात, लोक
+10,000 च्या आसपास गिळंकृत केले.</b></i></font>
+
+364
+00:13:57,824 --> 00:14:01,414
+<font face="Volkhov" size="78"><i><b>एरेन... कार्ला... मिकासा...</b></i></font>
+
+365
+00:14:01,914 --> 00:14:03,494
+<font face="Volkhov" size="78"><i><b>कृपया सुरक्षित रहा.</b></i></font>
+
+366
+00:14:06,914 --> 00:14:13,254
+<font face="Volkhov" size="78"><i><b>सन्मान! सन्मान! सन्मान! सन्मान!</b></i></font>
+
+367
+00:14:13,254 --> 00:14:15,924
+<font face="Volkhov" size="78"><i><b>बाबा! थांबवा बाबा!</b></i></font>
+
+368
+00:14:16,974 --> 00:14:18,554
+<font face="Volkhov" size="78"><i><b>तुम्ही काय करण्याचा प्रयत्न करत आहात?!</b></i></font>
+
+369
+00:14:19,304 --> 00:14:20,934
+<font face="Volkhov" size="78"><i><b>चुप राहा आणि मला तुझा हात दाखवा!</b></i></font>
+
+370
+00:14:20,934 --> 00:14:22,224
+<font face="Volkhov" size="78"><i><b>नाही!</b></i></font>
+
+371
+00:14:22,224 --> 00:14:25,224
+<font face="Volkhov" size="78"><i><b>आई मरण पावल्यापासून तू तुझे मन गमावले आहेस!</b></i></font>
+
+372
+00:14:25,224 --> 00:14:26,434
+<font face="Volkhov" size="78"><i><b>एरेन!</b></i></font>
+
+373
+00:14:26,434 --> 00:14:28,564
+<font face="Volkhov" size="78"><i><b>मला जाऊ दे बाबा!</b></i></font>
+
+374
+00:14:28,564 --> 00:14:30,984
+<font face="Volkhov" size="78"><i><b>हे तुमच्याच भल्यासाठी आहे!</b></i></font>
+
+375
+00:14:30,984 --> 00:14:32,774
+<font face="Volkhov" size="78"><i><b>तुम्ही काय म्हणताय?!</b></i></font>
+
+376
+00:14:32,774 --> 00:14:35,364
+<font face="Volkhov" size="78"><i><b>ऐका, किल्ली गमावू नका!</b></i></font>
+
+377
+00:14:35,364 --> 00:14:38,114
+<font face="Volkhov" size="78"><i><b>तुम्ही तिथे नक्कीच पोहोचले पाहिजे!</b></i></font>
+
+378
+00:14:38,114 --> 00:14:40,204
+<font face="Volkhov" size="78"><i><b>एखाद्या दिवशी!</b></i></font>
+
+379
+00:14:40,204 --> 00:14:41,494
+<font face="Volkhov" size="78"><i><b>तोपर्यंत...!</b></i></font>
+
+380
+00:14:50,464 --> 00:14:51,754
+<font face="Volkhov" size="78">एरेन?</font>
+
+381
+00:14:51,754 --> 00:14:52,884
+<font face="Volkhov" size="78">तुम्ही ठीक आहात ना?</font>
+
+382
+00:14:52,884 --> 00:14:54,214
+<font face="Volkhov" size="78">तुम्हाला वाईट स्वप्न पडले आहे का?</font>
+
+383
+00:14:55,754 --> 00:14:58,884
+<font face="Volkhov" size="78">मला असे वाटते की मी बाबांना पाहिले.</font>
+
+384
+00:14:58,884 --> 00:15:01,264
+<font face="Volkhov" size="78">अशक्य. ते एक स्वप्न असावे.</font>
+
+385
+00:15:02,594 --> 00:15:04,354
+<font face="Volkhov" size="78">तुला वाटतं?</font>
+
+386
+00:15:07,894 --> 00:15:08,774
+<font face="Volkhov" size="78">चला जाऊया.</font>
+
+387
+00:15:09,814 --> 00:15:11,814
+<font face="Volkhov" size="78">मी ऐकले की ते अन्नाचे वाटप करत आहेत.</font>
+
+388
+00:15:17,154 --> 00:15:20,244
+<font face="Volkhov" size="78">त्यांनी सांगितले की हे अन्नाचे कोठार आहे.</font>
+
+389
+00:15:20,824 --> 00:15:23,574
+<font face="Volkhov" size="78">वर आलेले प्रत्येकजण
+फेरी येथे जमा आहेत.</font>
+
+390
+00:15:34,884 --> 00:15:36,754
+<font face="Volkhov" size="78">अरे, इतरांप्रमाणे रांगेत उभे रहा!</font>
+
+391
+00:15:36,754 --> 00:15:37,554
+<font face="Volkhov" size="78">शूट अप!</font>
+
+392
+00:15:37,554 --> 00:15:40,424
+<font face="Volkhov" size="78">मी काल रात्रीपासून काही खाल्ले नाही!</font>
+
+393
+00:15:40,924 --> 00:15:43,764
+<font face="Volkhov" size="78">आम्ही अजून स्पष्ट नाही.</font>
+
+394
+00:15:44,804 --> 00:15:46,564
+<font face="Volkhov" size="78">एरेन! मिकासा!</font>
+
+395
+00:15:47,434 --> 00:15:48,524
+<font face="Volkhov" size="78">आर्मीन.</font>
+
+396
+00:15:50,064 --> 00:15:52,354
+<font face="Volkhov" size="78">हे, हे तुमच्या दोघांसाठी आहे.</font>
+
+397
+00:15:52,354 --> 00:15:56,274
+<font face="Volkhov" size="78">आजोबांना अतिरिक्त रेशन मिळाले तेव्हा
+त्यांना सांगितले की त्याला खायला मुले आहेत.</font>
+
+398
+00:15:56,274 --> 00:15:57,484
+<font face="Volkhov" size="78">धन्यवाद.</font>
+
+399
+00:16:04,324 --> 00:16:05,664
+<font face="Volkhov" size="78">त्याची समस्या काय आहे?</font>
+
+400
+00:16:05,664 --> 00:16:07,284
+<font face="Volkhov" size="78">हे फक्त नैसर्गिक आहे.</font>
+
+401
+00:16:07,284 --> 00:16:10,704
+<font face="Volkhov" size="78">बहुधा पुरेसे नाहीत
+प्रत्येकासाठी शिधा.</font>
+
+402
+00:16:10,704 --> 00:16:12,924
+<font face="Volkhov" size="78">एका दिवसाचीही किंमत नाही.</font>
+
+403
+00:16:13,294 --> 00:16:15,504
+<font face="Volkhov" size="78">अनेक निर्वासित आहेत.</font>
+
+404
+00:16:15,504 --> 00:16:17,544
+<font face="Volkhov" size="78">सुरुवातीला आधीच अन्नाचा तुटवडा होता.</font>
+
+405
+00:16:17,544 --> 00:16:21,054
+<font face="Volkhov" size="78">तुम्हाला माहिती आहे की जे लोक आत राहत होते
+बाह्य भिंतींना नीट वागवले जात नाही, बरोबर?</font>
+
+406
+00:16:22,344 --> 00:16:25,224
+<font face="Volkhov" size="78">आम्ही आमचे अन्न बाहेरच्या लोकांना का द्यावे?</font>
+
+407
+00:16:26,894 --> 00:16:32,064
+<font face="Volkhov" size="78">भिंत ओलांडून आधीच तुटलेली,
+त्यांनी जास्त लोकांवर स्नॅक करायला नको का?</font>
+
+408
+00:16:35,904 --> 00:16:37,024
+<font face="Volkhov" size="78">एरेन!</font>
+
+409
+00:16:37,274 --> 00:16:40,734
+<font face="Volkhov" size="78">या दराने अन्नधान्याची टंचाई
+समस्या आणखी वाईट होणार आहे.</font>
+
+410
+00:16:43,574 --> 00:16:45,784
+<font face="Volkhov" size="78">तुला काय प्रॉब्लेम आहे, ब्रॅट?!</font>
+
+411
+00:16:48,374 --> 00:16:50,164
+<font face="Volkhov" size="78">तुला समजले नाही...</font>
+
+412
+00:16:50,744 --> 00:16:53,874
+<font face="Volkhov" size="78">तुम्ही ते तुमच्या डोळ्यांनी पाहिले नाही!</font>
+
+413
+00:16:54,164 --> 00:16:57,334
+<font face="Volkhov" size="78">टायटन्स ज्या प्रकारे लोकांना खातात...</font>
+
+414
+00:16:58,714 --> 00:17:00,094
+<font face="Volkhov" size="78">श-शट अप!</font>
+
+415
+00:17:00,094 --> 00:17:01,134
+<font face="Volkhov" size="78">आम्ही दिलगीर आहोत!</font>
+
+416
+00:17:01,554 --> 00:17:03,924
+<font face="Volkhov" size="78">त्याच्या भुकेमुळे त्याला चिडचिड होत आहे.</font>
+
+417
+00:17:03,924 --> 00:17:07,844
+<font face="Volkhov" size="78">म्हणूनच तो प्रौढ व्यक्तीशी इतका उद्धट वागतो.</font>
+
+418
+00:17:07,844 --> 00:17:10,394
+<font face="Volkhov" size="78">आम्ही खरोखर दिलगीर आहोत!</font>
+
+419
+00:17:13,814 --> 00:17:15,194
+<font face="Volkhov" size="78">जीझ.</font>
+
+420
+00:17:15,194 --> 00:17:19,864
+<font face="Volkhov" size="78">तुम्ही आहात हे आमचे आभार आहे
+भुकेने मरत नाही!</font>
+
+421
+00:17:20,324 --> 00:17:23,784
+<font face="Volkhov" size="78">किमान लहान मुलांनी तरी त्याचे कौतुक केले पाहिजे!</font>
+
+422
+00:17:23,784 --> 00:17:25,364
+<font face="Volkhov" size="78">होय!</font>
+
+423
+00:17:25,364 --> 00:17:26,704
+<font face="Volkhov" size="78">धिक्कार असो.</font>
+
+424
+00:17:27,034 --> 00:17:29,744
+<font face="Volkhov" size="78"> नरकाप्रमाणे मी त्याच्यासारख्या लोकांचा ऋणी राहीन.</font>
+
+425
+00:17:31,584 --> 00:17:34,914
+<font face="Volkhov" size="78">मी परत जात आहे... वॉल मारियाकडे,</font>
+
+426
+00:17:34,914 --> 00:17:37,294
+<font face="Volkhov" size="78">आणि मी कोणत्याही प्रकारचा वध करेन
+माझ्या मार्गात येणारा टायटन.</font>
+
+427
+00:17:37,874 --> 00:17:41,134
+<font face="Volkhov" size="78">एरेन, तू फक्त विनोद करत आहेस ना?</font>
+
+428
+00:17:41,134 --> 00:17:42,004
+<font face="Volkhov" size="78">मी नाही!</font>
+
+429
+00:17:43,054 --> 00:17:46,514
+<font face="Volkhov" size="78">मी त्या पोझर्सपेक्षा वेगळा आहे
+भिंतींच्या मागे कोण घाबरतो!</font>
+
+430
+00:17:47,804 --> 00:17:49,184
+<font face="Volkhov" size="78">मला याची गरज नाही!</font>
+
+431
+00:17:51,394 --> 00:17:53,474
+<font face="Volkhov" size="78">एरेन, तू उपाशी मरशील!</font>
+
+432
+00:17:53,474 --> 00:17:56,064
+<font face="Volkhov" size="78">तुम्हाला हे निराशाजनक वाटत नाही का?!</font>
+
+433
+00:17:56,064 --> 00:17:59,104
+<font face="Volkhov" size="78">कारण आपण सतत दयेवर अवलंबून असतो
+इतरांचे, आम्ही टायटन्सचा पराभव करू शकत नाही!</font>
+
+434
+00:17:59,104 --> 00:18:01,404
+<font face="Volkhov" size="78">हे अशक्य आहे. आमच्याकडे ए
+नरकात स्नोबॉलची संधी!</font>
+
+435
+00:18:01,404 --> 00:18:04,284
+<font face="Volkhov" size="78">भिंतींमध्ये राहण्याशिवाय आमच्याकडे पर्याय नाही.</font>
+
+436
+00:18:04,284 --> 00:18:07,574
+<font face="Volkhov" size="78">तुम्ही उतावीळपणे वागलात तर तुम्ही मराल,
+माझ्या आई बाबांप्रमाणेच!</font>
+
+437
+00:18:07,574 --> 00:18:09,824
+<font face="Volkhov" size="78">म्हणूनच तुम्ही त्या माणसांकडे लक्ष देता का?!</font>
+
+438
+00:18:09,824 --> 00:18:11,074
+<font face="Volkhov" size="78">तुला गर्व नाही का?!</font>
+
+439
+00:18:11,074 --> 00:18:13,584
+<font face="Volkhov" size="78">आत्ता... सध्या, आमच्याकडे पर्याय नाही!</font>
+
+440
+00:18:13,584 --> 00:18:15,254
+<font face="Volkhov" size="78">हे फक्त एक निमित्त आहे!</font>
+
+441
+00:18:15,254 --> 00:18:20,174
+<font face="Volkhov" size="78">असंच वाटत असेल तर गुरांसारखं जगा
+तुझ्या उरलेल्या आयुष्यासाठी, भ्याड!</font>
+
+442
+00:18:24,094 --> 00:18:25,514
+<font face="Volkhov" size="78">Mikasa?</font>
+
+443
+00:18:34,314 --> 00:18:38,394
+<font face="Volkhov" size="78">जर आर्मिन भित्रा असेल, तर आम्ही वेगळे नाही.</font>
+
+444
+00:18:38,394 --> 00:18:44,734
+<font face="Volkhov" size="78">मग ते टायटन्समधून सुटले किंवा निघून गेले
+शहर, ना आपल्या ताकदीने.</font>
+
+445
+00:18:46,074 --> 00:18:48,574
+<font face="Volkhov" size="78">आम्हाला दिवसभराचे जेवणही दिले गेले आहे.</font>
+
+446
+00:18:49,154 --> 00:18:54,664
+<font face="Volkhov" size="78">जे लोक त्या उभ्यासारखे शक्तीहीन आहेत
+एकही टायटन विरुद्ध संधी नाही.</font>
+
+447
+00:18:56,124 --> 00:19:01,334
+<font face="Volkhov" size="78">सर्व्हायव्हल हे आपले मुख्य असले पाहिजे
+ध्येय, काकू म्हणाल्याप्रमाणे.</font>
+
+448
+00:19:07,094 --> 00:19:08,344
+<font face="Volkhov" size="78">Mikasa?</font>
+
+449
+00:19:08,764 --> 00:19:11,644
+<font face="Volkhov" size="78">खा. जगण्यासाठी हे करा.</font>
+
+450
+00:19:11,644 --> 00:19:14,014
+<font face="Volkhov" size="78">मी तुला भुकेने मरू देणार नाही.</font>
+
+451
+00:19:25,444 --> 00:19:32,994
+<font face="Volkhov" size="78"><i><b>काही दिवसांनंतर, अनेक निर्वासितांना
+अन्न उत्पादनाला चालना देण्यासाठी पडीक जमिनीची लागवड करा.</b></i></font>
+
+452
+00:19:35,494 --> 00:19:38,084
+<font face="Volkhov" size="78"><i><b>तथापि, अन्नधान्याचा तुटवडा अजूनही एक समस्या होती,</b></i></font>
+
+453
+00:19:38,454 --> 00:19:44,044
+<font face="Volkhov" size="78"><i><b>846 च्या पुढील वर्षात, अंतर्गत
+वॉल मारिया पुन्हा ताब्यात घेण्याच्या योजनेचा बहाणा,</b></i></font>
+
+454
+00:19:44,044 --> 00:19:46,804
+<font face="Volkhov" size="78"><i><b>केंद्र सरकारने अनेक निर्वासितांची नोंद केली.</b></i></font>
+
+455
+00:19:55,434 --> 00:19:58,314
+<font face="Volkhov" size="78"><i><b>त्यांची संख्या 250,000 आहे.</b></i></font>
+
+456
+00:19:59,274 --> 00:20:05,274
+<font face="Volkhov" size="78"><i><b>ते लोकसंख्येच्या पाचव्या प्रमाणात होते,
+पण फक्त शंभर लोक वाचले.</b></i></font>
+
+457
+00:20:06,484 --> 00:20:13,244
+<font face="Volkhov" size="78"><i><b>त्या यज्ञांमुळे अन्नाची कमतरता सुधारली,
+थोडेच असल्यास, जे वाचले त्यांच्यासाठी.</b></i></font>
+
+458
+00:20:26,594 --> 00:20:28,554
+<font face="Volkhov" size="78">हे सर्व टायटन्समुळे आहे.</font>
+
+459
+00:20:29,504 --> 00:20:31,764
+<font face="Volkhov" size="78">आम्ही त्यांचा पराभव केला तर,</font>
+
+460
+00:20:32,764 --> 00:20:35,804
+<font face="Volkhov" size="78">आम्ही जगात आमचे हक्काचे स्थान परत मिळवू शकतो.</font>
+
+461
+00:20:37,894 --> 00:20:42,234
+<font face="Volkhov" size="78">आर्मीन, मी अर्ज करणार आहे
+पुढच्या वर्षी ट्रेनिंग कॉर्प्स.</font>
+
+462
+00:20:45,654 --> 00:20:47,944
+<font face="Volkhov" size="78">मी टायटन्सशी लढण्यासाठी आवश्यक ताकद निर्माण करीन.</font>
+
+463
+00:20:52,074 --> 00:20:53,034
+<font face="Volkhov" size="78">मी पण.</font>
+
+464
+00:20:53,324 --> 00:20:54,204
+<font face="Volkhov" size="78">आर्मीन?</font>
+
+465
+00:20:54,204 --> 00:20:55,664
+<font face="Volkhov" size="78">मी पण!</font>
+
+466
+00:20:56,954 --> 00:20:58,454
+<font face="Volkhov" size="78">मी पण सामील होईन.</font>
+
+467
+00:20:58,454 --> 00:21:01,754
+<font face="Volkhov" size="78">मिकासा? तुम्हाला याची गरज नाही!</font>
+
+468
+00:21:01,754 --> 00:21:04,374
+<font face="Volkhov" size="78">तुम्ही म्हणले की जगण्याची गरज आहे
+आमचे मुख्य ध्येय, लक्षात आहे?</font>
+
+469
+00:21:04,374 --> 00:21:08,004
+<font face="Volkhov" size="78">होय, म्हणून मी तुम्हाला मरण्यापासून वाचवण्यासाठी सामील होणार आहे.</font>
+
+470
+00:21:13,014 --> 00:21:15,224
+<font face="Volkhov" size="78">ठीक आहे, आम्ही सर्व सामील होऊ.</font>
+
+471
+00:21:23,144 --> 00:21:27,944
+<font face="Volkhov" size="78">आम्ही आता नावनोंदणी सुरू करू
+104व्या ट्रेनिंग कॉर्प्सचा समारंभ!</font>
+
+472
+00:21:28,444 --> 00:21:33,284
+<font face="Volkhov" size="78">दुर्दैवाने तुमच्यासाठी, मी, कीथ शार्डिस,
+ना तुमचा प्रशिक्षक म्हणून नियुक्त केले आहे.</font>
+
+473
+00:21:33,744 --> 00:21:36,404
+<font face="Volkhov" size="78">तुमचे स्वागत करण्याचा माझा किंचितही हेतू नाही!</font>
+
+474
+00:21:36,404 --> 00:21:40,914
+<font face="Volkhov" size="78">तुम्ही आता जसे आहात, तुम्ही सर्व केवळ टायटन्सला पुष्ट करण्यासाठी अस्तित्वात असलेले गुरे आहात!</font>
+
+475
+00:21:40,914 --> 00:21:42,954
+<font face="Volkhov" size="78">तुम्ही त्याहून अधिक काही नाही!</font>
+
+476
+00:21:42,954 --> 00:21:45,794
+<font face="Volkhov" size="78">आम्ही तुम्हाला निरुपयोगी डीजनरेट्स घेऊ</font>
+
+477
+00:21:45,794 --> 00:21:48,504
+<font face="Volkhov" size="78">आणि तुमच्यातून काहीतरी बनवा
+पुढील तीन वर्षांत!</font>
+
+478
+00:21:48,504 --> 00:21:51,464
+<font face="Volkhov" size="78">आम्ही याच्या पद्धती ड्रिल करू
+आपल्यामध्ये टायटन्सशी लढत आहे!</font>
+
+479
+00:21:52,054 --> 00:21:55,634
+<font face="Volkhov" size="78">तीन वर्षांत, जेव्हा तुम्ही
+स्वतःला टायटनच्या आधी शोधा,</font>
+
+480
+00:21:55,634 --> 00:21:57,554
+<font face="Volkhov" size="78">तुम्ही अजूनही फक्त शिकार राहाल?!</font>
+
+481
+00:21:57,554 --> 00:22:01,304
+<font face="Volkhov" size="78">किंवा तुम्ही सन्माननीय व्हाल
+भिंत जी त्याच्या राजाचे रक्षण करते?!</font>
+
+482
+00:22:01,304 --> 00:22:05,564
+<font face="Volkhov" size="78">किंवा कदाचित मानवजातीचा एक गौरवशाली सैनिक
+ज्याने टायटन्सचा नाश केला?!</font>
+
+483
+00:22:05,564 --> 00:22:07,484
+<font face="Volkhov" size="78">स्वतःसाठी ठरवा!</font>
+
+484
+00:22:08,694 --> 00:22:11,234
+<font face="Volkhov" size="78"><i><b>हो, मी बदलेन.</b></i></font>
+
+485
+00:22:12,824 --> 00:22:16,074
+<font face="Volkhov" size="78"><i><b>मी त्यातील प्रत्येक शेवटचा नाश करीन.</b></i></font>
